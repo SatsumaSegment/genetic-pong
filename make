@@ -1,0 +1,1 @@
+gcc main.c -o genetic-pong -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
